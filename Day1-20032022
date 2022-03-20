@@ -4,3 +4,32 @@ http://linux-training.be
 
 Part 1 introduction to linux
 
+
+1969
+ 
+Dennis Ritchie and Ken Thompson developed the c language and the Unix operating system at at&t Bell labs
+By 1975 when at&t started selling Unix commercially hippies were not happy,the resulting legal battle and ended in there being two versions of Unix:: the official at&t Unix and the free bsd Unix
+
+Bsd Descendants like freebsd openbsd netbsd dragonfly bsd and pc bsd is still active today.
+
+
+
+1980
+
+Many companies started doing their own versions of Unix 
+IBM created aix
+Sun created sunos later Solaris
+HP created hp-ux
+
+
+
+Gnu project (not Unix)
+
+
+Richard stallman goal is to make an operating system that was freely available to everyone
+And everyone could work together
+Many of the command line tools are GNU tools
+
+1990
+
+The nineties started with Linus torvalds buying a 386 computer
