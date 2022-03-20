@@ -32,4 +32,59 @@ Many of the command line tools are GNU tools
 
 1990
 
-The nineties started with Linus torvalds buying a 386 computer
+The nineties started with Linus torvalds buying a 386 computer and writing a brand new posix compliant kernel.
+
+
+2015
+
+
+Today more than 90 percent of the worlds super computers and more than 80 percent of smartphones  run Linux
+
+
+
+
+
+Chapter 2 ---Distributions
+
+
+
+
+A Linux distributions is a collection of software on top of a Linux kernel
+
+Redhat:::rhel and fedora.supports upto 7 years after release.
+Fedora is a distro with faster updates but without support.
+
+Ubuntu::: 2004  sending out free compact discs.
+
+Debian:::there is no company behind debian.most stable Linux distributions.
+Comes under 3 stable testing and unstable.
+Others 
+
+
+
+CentOS oracle enterprise Linux and scientific Linux are based on rhel
+
+
+Rhel::: you're a manager and you want a good support contract.
+CentOS:::you want red hat without the support of redhat
+Fedora::: redhat on laptop or desktop
+Linux mint::: personal graphical desktop to play movies music and games.
+Debian:::try
+Ubuntu::: very popular
+Kali::: hacking interface
+Some links to watch are 
+
+Distrowatch.com
+Redhat.com
+CentOS.org
+Debian.org
+Linuxmint.com
+Ubuntu.com
+
+
+
+Software licences
+
+
+
+
